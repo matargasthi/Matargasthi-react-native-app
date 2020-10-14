@@ -1,7 +1,7 @@
 # Matargasthi-react-native-app
 This the code of Matargasthi app .
 
-App is published in Google Playestore.
+App is published in Google Playstore.
 
 https://play.google.com/store/apps/details?id=com.panthotech.matargasthi
 
