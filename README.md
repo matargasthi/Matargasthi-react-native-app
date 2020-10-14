@@ -5,7 +5,7 @@ App is published in Google Playestore.
 
 https://play.google.com/store/apps/details?id=com.panthotech.matargasthi
 
-The Team who have made this app.
+The Team who have made this app.<br>
 <a href="https://github.com/prasenjitghose36">Prasenjit Ghosh</a><br>
 <a href="https://github.com/patelaryan7751">Aryan Patel</a><br>
 <a href="https://github.com/sAURYAMAN777">Sauryaman Nayak</a><br>
