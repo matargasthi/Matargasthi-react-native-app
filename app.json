@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Matargasthi",
+    "slug": "Matargasthi",
+    "platforms": [
+      
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ba93e2"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "assets/*"
+    ],
+    
+    "android":{
+      "package":"com.panthotech.matargasthi",
+      "versionCode":1
+      
+    },
+    "description":"Matargasthi an app which helps you to watch videos together with your friends & family even if they are not staying with you."
+  }
+}
