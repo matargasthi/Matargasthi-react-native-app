@@ -2,7 +2,10 @@
 
 ### This the official code of Matargasthi app ...
 
-<img src = "assets/icon.png" width = '820'>
+
+<h1 align="center">
+  <img src = "assets/icon.png" width = '820'><br/>MATARGASTHI
+</h1>
 
 #### Matargasthi - an app to stream videos from YouTube and Google Drive together with friends. It gives users a surreal visual and audio experience in a virtual multiplex.
 
